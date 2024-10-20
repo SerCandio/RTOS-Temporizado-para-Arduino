@@ -7,3 +7,10 @@ Librería de Arduino que emula una ejecución temporizada y cuasi-concurrente de
 
 <h2 dir="auto" tabindex="-1">DESCRIPCION Y EXPLICACION:</h2>
 Uno de los componentes considerado en sistemas embebidos es el RTOS(Real Time Operating System)
+
+
+
+https://wiki.seeedstudio.com/Software-FreeRTOS/
+
+https://www.luisllamas.es/como-usar-freertos-en-arduino/
+
